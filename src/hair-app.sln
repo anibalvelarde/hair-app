@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hair-app-api", "api\hair-app-api.csproj", "{719C297B-5C01-4E85-A3DA-B8944DC29F0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hair-app-api-tests", "api-tests\hair-app-api-tests.csproj", "{F1C1418A-ACCB-4F26-B8AE-B7BD4936CF17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{719C297B-5C01-4E85-A3DA-B8944DC29F0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{719C297B-5C01-4E85-A3DA-B8944DC29F0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{719C297B-5C01-4E85-A3DA-B8944DC29F0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{719C297B-5C01-4E85-A3DA-B8944DC29F0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1C1418A-ACCB-4F26-B8AE-B7BD4936CF17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C1418A-ACCB-4F26-B8AE-B7BD4936CF17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C1418A-ACCB-4F26-B8AE-B7BD4936CF17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C1418A-ACCB-4F26-B8AE-B7BD4936CF17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
